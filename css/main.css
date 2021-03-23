@@ -1,6 +1,11 @@
 h1 {
   font-family: 'Fugaz One', cursive;
-  color: #3A6AB3; 
+  color: #3A6AB3;
+  font-size: 6rem;
+}
+h3 {
+  color: #3A6AB3;
+  font-size: 2rem;
 }
 body {
   background-image: linear-gradient(#F3C6D2, #F5DADD);
@@ -20,4 +25,13 @@ main {
 .col {
   float: left;
   width: 50%
+}
+@media screen and (max-width: 538px) {
+  .col {
+    margin-bottom: 50px;
+    width: 100%
+  }
+  header {
+    width: 328vw;
+  }
 }
