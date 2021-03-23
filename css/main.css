@@ -1,0 +1,23 @@
+h1 {
+  font-family: 'Fugaz One', cursive;
+  color: #3A6AB3; 
+}
+body {
+  background-image: linear-gradient(#F3C6D2, #F5DADD);
+}
+html{
+  height:100%
+}
+header {
+  width: 75vw;
+  margin: 25px auto;
+}
+main {
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
+}
+.col {
+  float: left;
+  width: 50%
+}
