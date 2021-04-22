@@ -1,0 +1,17 @@
+.black {
+  background-color: #222222;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+.red {
+  background-color: tomato;
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+.board {
+  width: 800px;
+  display: flow-root;
+  margin: 100px auto;
+}
