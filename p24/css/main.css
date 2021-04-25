@@ -1,0 +1,17 @@
+.col {
+  float: left;
+  width: 23%;
+  margin-right: 1%;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+body {
+  background-color: #E8E8E8
+}
+main {
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
+}
