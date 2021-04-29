@@ -20,3 +20,7 @@ main {
   margin: 25px auto;
   display: flow-root;
 }
+ul {
+  color: #3A6AB3;
+  font-size: 2rem;
+}

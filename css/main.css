@@ -7,6 +7,10 @@ h3 {
   color: #3A6AB3;
   font-size: 2rem;
 }
+ul {
+    color: #3A6AB3;
+    font-size: 2rem;
+}
 body {
   background-image: linear-gradient(#F3C6D2, #F5DADD);
 }
